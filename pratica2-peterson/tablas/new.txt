@@ -1,0 +1,33 @@
+<html>
+<head>
+<title>pratica dos: enlaces, tablas y github</title>
+</head>
+<body>
+<h1>Ejemplo de une tabla basica</h1>
+<table>
+<!--pimera fila-->
+<tr> 
+<td> </td>
+<td> </td>
+</tr>
+
+<tr> 
+<td> </td>
+<td> </td>
+</tr>
+
+<tr> 
+<td> </td>
+<td> </td>
+</tr>
+
+<tr> 
+<td> </td>
+<td> </td>
+</tr>
+
+<tr> 
+<td> </td>
+<td> </td>
+</tr>
+</table>
